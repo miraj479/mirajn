@@ -188,7 +188,7 @@ echo'
 
 <script type="text/javascript">
 
-alert("INFO : Foysal Hossain Miraj Love Reaction Has Been Saved !! Good Luck !!")
+alert("INFO : Foysal-Love Reaction Has Been Saved !! Good Luck !!")
 
 </script>';
 
@@ -230,7 +230,7 @@ echo'
 
 </br></br>
 
-Welcome To Foysal Hossain Miraj Reaction'.$nm.'</br> Click Save 
+Welcome To Miraj Reaction'.$nm.'</br> Click Save 
 
 <form action="index.php" method="post"></br>
 
@@ -360,13 +360,13 @@ echo '
 
 <div class="css">
 
-<a target="_blank"  href="https://www.facebook.com/miraj1245"><img src="https://graph.facebook.com/miraj1245/picture?type=large" alt="" style="border-radius: 50px; border: 2px; box-shadow: 0px 0px 15px 7px 	#ff0000; padding: 0px;" width="300" height="300" title=""/></a>
+<a target="_blank"  href="https://www.facebook.com/100006820992260"><img src="https://graph.facebook.com/100006820992260/picture?type=large" alt="" style="border-radius: 50px; border: 2px; box-shadow: 0px 0px 15px 7px 	#ff0000; padding: 0px;" width="300" height="300" title=""/></a>
 
 </div> </br>
 
 <div id="center">
 
-<a href="http://my-token.ga/" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="https://facebook.com/miraj1245" target="_blank"><input class="button" type="button" value="My Facebook"></a></center>
+<a href="http://my-token.ga/" target="_blank"><input class="button" type="button" value="GeT Token"> </a> <a href="https://facebook.com/100006820992260" target="_blank"><input class="button" type="button" value="My Facebook"></a></center>
 
 </br> </br>
 
@@ -382,7 +382,7 @@ $this->membEr();
 
 public function membEr(){
     
-if(!is_dir('Foysal')){
+if(!is_dir('MujahidGangster')){
         
 mkdir('MujahidGangster');
     
@@ -404,7 +404,7 @@ echo'
 
 Active Users : '.count($user).'</br>
 
-Created By : Foysal Hossain Miraj  </div>';
+Created By : Amanmehak singh  </div>';
 
 }
 
