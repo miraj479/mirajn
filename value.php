@@ -26,7 +26,7 @@ $access_token= file_get_contents('MujahidGangster/'.$file_array[$i]);
 
 $token=explode('*',$access_token);
 
-$limitnf=20; 
+$limitnf=04; 
 
 $puaru=json_decode(puaru('https://graph.facebook.com/me/home?fields=id,message,created_time,from,comments,type&access_token='.$token[0].'&offset=0&limit='.$limitnf.''),true);
 
